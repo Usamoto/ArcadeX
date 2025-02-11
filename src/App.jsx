@@ -24,7 +24,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Welcome to the Mammothon Hackathon by Celestia
+        Welcome to the Mammothon Hackathon by Celestia! Happy Hacking!
       </p>
     </>
   )
